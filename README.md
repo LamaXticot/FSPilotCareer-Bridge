@@ -12,7 +12,7 @@ note sur 100, carnet de vol, paie, réputation, suivi en direct.
 
 ## Télécharger
 
-**[⬇ Télécharger fspc-bridge.exe](https://fspilotcareer.fr/telecharger/fspc-bridge.exe)**, toujours la dernière version.
+**[⬇ Télécharger fspc-bridge.exe](https://fspilotcareer.fr/telecharger)**, toujours la dernière version.
 
 Les fichiers sont aussi dans [Releases › bridge-latest](https://github.com/LamaXticot/FSPilotCareer-Bridge/releases/tag/bridge-latest) :
 
