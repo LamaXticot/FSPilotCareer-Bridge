@@ -60,9 +60,10 @@ cliquez sur **Quitter le Bridge**. Le journal est aussi écrit dans `%APPDATA%\F
 L'application vous prévient quand une nouvelle version est disponible, avec un bandeau « Nouvelle version du
 Bridge ». Pour l'installer :
 
-1. cliquez sur **Quitter le Bridge** dans sa page ;
-2. téléchargez la nouvelle version avec le même lien ;
-3. lancez-la à la place de l'ancienne.
+1. téléchargez la nouvelle version avec le même lien ;
+2. lancez-la : elle arrête d'elle-même l'ancienne encore ouverte et prend le relais.
+
+Avant la 0.3.2, cliquez d'abord sur **Quitter le Bridge** dans la page de l'ancienne version.
 
 Votre compte reste retenu.
 
